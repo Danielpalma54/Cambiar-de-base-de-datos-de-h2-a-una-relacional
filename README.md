@@ -18,4 +18,7 @@ Se agrego nueva informacion de hoteles
 
 ![image](https://github.com/Danielpalma54/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/147771801/61a9ef3f-8317-4e61-8754-e86414ba4a09)
 
+# Muestra del funcionamiento exito del cambio h2 a la base de datos de PosgresSQL
+
+![image](https://github.com/Danielpalma54/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/147771801/bd1fb778-0883-42df-9b62-01be2ff120ab)
 
