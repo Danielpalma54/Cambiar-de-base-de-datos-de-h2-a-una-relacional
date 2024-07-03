@@ -16,7 +16,8 @@ En el archivo application.properties, se ha configurado la nueva conexión a la 
 # Informacion de la base de data.sql
 Se agrego nueva informacion de hoteles
 
-![image](https://github.com/Danielpalma54/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/147771801/61a9ef3f-8317-4e61-8754-e86414ba4a09)
+![image](https://github.com/Danielpalma54/Cambiar-de-base-de-datos-de-h2-a-una-relacional/assets/147771801/8ca059cd-b23e-4697-8161-b214c060781b)
+
 
 # Muestra del funcionamiento exito del cambio h2 a la base de datos de PosgresSQL
 
